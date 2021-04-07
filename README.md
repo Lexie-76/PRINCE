@@ -1,0 +1,2 @@
+# PRINCE
+Pathogenic gene prediction 
